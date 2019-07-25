@@ -7,6 +7,8 @@ LIRI is a command line node application that works like siri, google, or alexa.
 -	spot-this
 -	movie-this
 -	do-lo
+
+
 ![Screen shot](Images/switch.JPG)
 
 
