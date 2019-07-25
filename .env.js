@@ -1,0 +1,7 @@
+#Spotify API keys
+
+
+
+SPOTIFY_ID = 91e88110ee064f57b8bec5a9f67b37bd
+
+SPOTIFY_SECRET = 1158f5eeb74040e1a0eceb9a5af0023f
