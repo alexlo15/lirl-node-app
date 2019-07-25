@@ -7,12 +7,12 @@ LIRI is a command line node application that works like siri, google, or alexa.
 -	spot-this
 -	movie-this
 -	do-lo
-
+![Screen shot](images/switch.JPG)
 
 
 ## concert-this: 
 
-![Screen shot](images/concert-this-drake.JPG)
+![Screen shot](images/concert-this.JPG)
 
 
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
@@ -23,7 +23,6 @@ This will search the Bands in Town Artist Events API for an artist and render th
 
 ## Spotify-this-song: 
 
-![Screen shot](images/spotify-this-song-3500.JPG)
 
 This will show the following information about the song in your terminal/bash window
 
@@ -34,7 +33,7 @@ This will show the following information about the song in your terminal/bash wi
 
 ## movie-this: 
 
-![Screen shot](images/movie-this-IT.JPG)
+![Screen shot](images/movie-this.JPG)
 
 This will output the following information to your terminal/bash window:
 -	Title of the movie.
