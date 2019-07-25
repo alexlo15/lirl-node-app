@@ -46,7 +46,7 @@ This will output the following information to your terminal/bash window:
 -	Plot of the movie.
 -	Actors in the movie.
 
-## do-what-it-says: 
+## do-lo: 
 
 
 
