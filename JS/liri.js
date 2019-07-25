@@ -24,7 +24,7 @@ var title = process.argv.slice(3);
 // handle's the random input
 var doLo = function () {
     fs.readFile('random.txt', "utf8", function (error, data) {
-        var txt = data.split(',');
+        var txt = data.split(",");
 
         console.log("\nHere's my random movie for you")
         movie.findMovie(txt[1]);
