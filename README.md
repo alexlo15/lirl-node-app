@@ -11,6 +11,13 @@ LIRI is a command line node application that works like siri, google, or alexa.
 
 ![Screen shot](Images/switch.JPG)
 
+## How to Use
+
+1. Git clone this repository 
+2. Navigate to the root folder in cloned repository
+3. Type in the command line "npm install" and wait for completion
+4. Type npm start
+5. Application should run on LocalHost:8080
 
 ## concert-this: 
 
